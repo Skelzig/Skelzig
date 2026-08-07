@@ -1,6 +1,5 @@
 ### 🎯 Current Focus
 - 🐍 Currently learning Python and strengthening my programming fundamentals
-- 🧠 Currently learning **JavaScript** to make websites dynamic and interactive
 - 📚 Practicing Git & GitHub workflows
 - 🔨 Building projects to turn what I learn into practical experience
 
